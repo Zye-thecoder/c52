@@ -1,0 +1,27 @@
+     h1{
+    color:black
+            }
+            /* * {
+border:solid
+            } */
+
+.header{
+        background-color: #ce0916;
+}
+
+
+
+.grid{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-evenly;
+}
+.footer{
+        display:flex;
+        justify-content:flex-end;
+background-color: #13a000;
+}
+
+body{
+        background-color: #000000;
+}
